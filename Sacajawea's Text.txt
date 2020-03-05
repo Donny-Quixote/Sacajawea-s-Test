@@ -1,0 +1,15 @@
+Sacajawea's Text.txt
+
+      i		W W W W W W W W W W W W	W	   W
+     gi		W a a a a a a a a a a a	W	   Wa
+    igi		W a l l l l l l l l l a	W	   Wal
+   uigi		W a l u u u u u u u l a	W	   Walu
+  luigi		W a l u i i i i	i u l a	W	   Walui
+ aluigi		W a l u i g g g	i u l a	W	   Waluig
+Waluigi		W a l u i g i g	i u l a	W	   Waluigi
+ aluigi		W a l u i g g g	i u l a	W	   Waluig
+  luigi		W a l u i i i i	i u l a	W	   Walui
+   uigi		W a l u u u u u u u l a	W	   Walu
+    igi		W a l l l l l l l l l a	W	   Wal
+     gi		W a a a a a a a a a a a	W	   Wa
+      i		W W W W W W W W W W W W	W	   W
